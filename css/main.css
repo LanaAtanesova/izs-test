@@ -1,0 +1,21 @@
+.name-store {
+    margin-top: 2px;
+}
+
+.install {
+    font-size: 12px;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.install-box {
+    max-width: 602px;
+}
+
+.text-install {
+    font-size: 48px;
+}

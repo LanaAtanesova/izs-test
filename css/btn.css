@@ -1,0 +1,11 @@
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    height: 64px;
+    width: 179px;
+    color: #fff;
+    background: #6A6A6A;
+    border-radius: 36px;
+}
